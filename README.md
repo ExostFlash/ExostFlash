@@ -21,15 +21,9 @@
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/amaury-maizy/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mecdu.dev">
-    <img src="https://img.shields.io/badge/MecDu.Dev-Portfolio-B71010?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:exostflash@mecdu.dev">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/amaury-maizy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://mecdu.dev"><img src="https://img.shields.io/badge/MecDu.Dev-Portfolio-B71010?style=flat-square&logo=googlechrome&logoColor=white" /></a> 
+  <a href="mailto:exostflash@mecdu.dev"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
