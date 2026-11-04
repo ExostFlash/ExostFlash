@@ -113,6 +113,7 @@ Through **MecDu.Dev**, my personal development environment, I design and build i
 
 | Project | Description | Technologies |
 |:--|:--|:--|
+| **[GitPushF.uk](https://gitpushf.uk)** | Developer toolbox for Git disasters, useful utilities and questionable decisions. | TypeScript · Node.js · Git |
 | **[Mixify](https://mixify.lehub.tf)** | Party planning & Cocktail management platform | Node.js · Express · MySQL · Java |
 | **[CitaPote](https://citapote.lehub.tf)** | Social platform for sharing quotes with friends and private groups. | Node.js · Express · MySQL |
 | **[MecDu.Dev](https://mecdu.dev/)** | Personal development environment and project ecosystem. | Web · Infrastructure |
