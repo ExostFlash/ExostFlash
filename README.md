@@ -165,7 +165,7 @@ Through **MecDu.Dev**, my personal development environment, I design and build i
 
   <br><br>
 
-  <sub>$ sudo ./find-secrets.sh → <a href="https://gitpushf.uk">gitpushf.uk</a></sub>
+  <sub>[`$ sudo ./find-secrets.sh`](https://gitpushf.uk)</sub>
 
 </div>
 
